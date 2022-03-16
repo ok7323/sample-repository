@@ -1,1 +1,2 @@
 ./program < test.in > out
+./program < test.in > out
