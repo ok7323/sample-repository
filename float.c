@@ -28,7 +28,7 @@ int is_denormal(float f)
         return FALSE;
     else
         return TRUE;
-}
+};
 
 
 float get_M(float f)
