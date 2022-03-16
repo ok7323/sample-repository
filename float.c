@@ -34,14 +34,6 @@ int is_denormal(float f)
 float get_M(float f)
 {
     float M=0.0;
-    /*if(isnan(f)){
-        for(int i = 22; i>-1; i--)
-            M += pow(0.5,23-i);
-        return 1+M;
-    }else if(isinf(f)){
-        return 1+M;
-    }*/
-    M = 0.0;
     for(int i = 22; i>-1; i--){
         if (((*(unsigned int*)&f>>i)&0x01)==1)
             M += pow(0.5,23-i);
