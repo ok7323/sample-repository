@@ -1,4 +1,3 @@
-ENVIRONMENT:linux
 LANGUAGE:C
 BUILD:make
 RUN:make run
