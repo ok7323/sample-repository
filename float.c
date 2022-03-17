@@ -6,6 +6,7 @@
 
 #define TRUE 1
 #define FALSE 0
+
 int is_special(float f)
 {
     int check = 0;
