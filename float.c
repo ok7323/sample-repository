@@ -1,4 +1,3 @@
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
@@ -14,7 +13,7 @@ int is_special(float f)
     for(int i = 30; i > 22; i--)
 		check += ((*(unsigned int*)&f>>i)&0x01);
     // True if all of exponent bits are 8, false otherwise.
-    // test
+    // test push
     if(check == 8)
         return TRUE;
     else
