@@ -137,4 +137,3 @@ In file included from float.c:4:0:
 Makefile:20: recipe for target 'float.o' failed
 make: *** [float.o] Error 1
 BUILD ERROR
-gcc -g  -Wall -std=c99 -c float.c
