@@ -6,7 +6,6 @@
 
 #define TRUE 1
 #define FALSE 0
-int test= 1;
 
 int is_special(float f)
 {
