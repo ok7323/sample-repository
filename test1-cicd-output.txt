@@ -1,4 +1,4 @@
 Initialize output
-[2022-03-18 22:50:08.543] INFO: Execute build command
+[2022-03-18 22:50:51.712] INFO: Execute build command
 make: Nothing to be done for 'all'.
-[2022-03-18 22:50:08.565] INFO: Execute run command
+[2022-03-18 22:50:51.739] INFO: Execute run command
