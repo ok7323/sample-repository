@@ -1,0 +1,4 @@
+Initialize output
+[2022-03-18 20:25:31.578] INFO: Execute build command
+[2022-03-18 20:25:31.604] INFO: Execute run command
+./program < test.in > out
