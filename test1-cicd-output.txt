@@ -1,9 +1,9 @@
 Initialize output
-[2022-03-18 21:08:31.981] INFO: Execute build command
+[2022-03-18 21:08:38.855] INFO: Execute build command
 gcc -g  -Wall -std=c99 -c float.c
 float.c:81:1: error: expected identifier or ‘(’ before ‘/’ token
  /
  ^
 Makefile:20: recipe for target 'float.o' failed
 make: *** [float.o] Error 1
-[2022-03-18 21:08:32.131] ERROR: BUILD ERROR
+[2022-03-18 21:08:39.002] ERROR: BUILD ERROR
