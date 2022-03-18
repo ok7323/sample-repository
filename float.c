@@ -3,6 +3,7 @@
 #include <string.h>
 #include <math.h>
 #include "float.h"
+#define A 2
 
 #define TRUE 1
 #define FALSE 0
