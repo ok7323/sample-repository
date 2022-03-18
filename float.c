@@ -4,7 +4,7 @@
 #include <math.h>
 #include "float.h"
 //#define B 1
-
+//
 #define TRUE 1
 #define FALSE 0
 int is_special(float f)
