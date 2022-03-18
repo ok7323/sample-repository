@@ -1,5 +1,7 @@
 Initialize output
-[2022-03-18 22:52:49.051] INFO: Execute build command
+[2022-03-18 22:54:37.030] INFO: Execute build command
 make: Nothing to be done for 'all'.
-[2022-03-18 22:52:49.078] INFO: Execute run command
+[2022-03-18 22:54:37.052] INFO: Execute run command
 ./program < test.in > out
+[2022-03-18 22:54:42.076] ERROR: TIME OUT RUN COMMAND
+Makefile:23: recipe for target 'run' failed

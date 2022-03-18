@@ -1,4 +1,5 @@
 Initialize output
-[2022-03-18 22:52:44.936] INFO: Execute build command
+[2022-03-18 22:54:32.451] INFO: Execute build command
 make: Nothing to be done for 'all'.
-[2022-03-18 22:52:44.962] INFO: Execute run command
+[2022-03-18 22:54:32.473] INFO: Execute run command
+[2022-03-18 22:54:37.013] ERROR: TIME OUT RUN COMMAND
