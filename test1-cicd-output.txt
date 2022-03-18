@@ -1,6 +1,6 @@
 Initialize output
-[2022-03-18 21:46:51.687] INFO: Execute build command
+[2022-03-18 21:47:52.225] INFO: Execute build command
 gcc -g  -Wall -std=c99 -c float.c
 gcc -g  -Wall -std=c99 -o program main.o float.o -lm  
-[2022-03-18 21:46:51.842] INFO: Execute run command
+[2022-03-18 21:47:52.373] INFO: Execute run command
 ./program < test.in > out
