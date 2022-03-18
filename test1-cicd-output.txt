@@ -1,6 +1,4 @@
 Initialize output
-[2022-03-18 21:47:52.225] INFO: Execute build command
-gcc -g  -Wall -std=c99 -c float.c
-gcc -g  -Wall -std=c99 -o program main.o float.o -lm  
-[2022-03-18 21:47:52.373] INFO: Execute run command
-./program < test.in > out
+[2022-03-18 22:15:27.961] INFO: Execute build command
+make: Nothing to be done for 'all'.
+[2022-03-18 22:15:27.983] INFO: Execute run command
