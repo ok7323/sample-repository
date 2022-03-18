@@ -3,3 +3,5 @@ Initialize output
 make: Nothing to be done for 'all'.
 [2022-03-18 17:10:35.044] ERROR: TIME OUT BUILD COMMAND
 [2022-03-18 17:10:35.052] ERROR: BUILD ERROR
+[2022-03-18 17:10:36.093] INFO: Execute run command
+./program < test.in > out
