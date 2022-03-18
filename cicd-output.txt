@@ -1,5 +1,5 @@
 Initialize output
-[2022-03-18 17:15:58.457] INFO: Execute build command
+[2022-03-18 17:16:05.260] INFO: Execute build command
 make: Nothing to be done for 'all'.
-[2022-03-18 17:15:58.485] INFO: Execute run command
+[2022-03-18 17:16:05.286] INFO: Execute run command
 ./program < test.in > out
