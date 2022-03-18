@@ -76,15 +76,3 @@ int get_E(float f)
         return E-127; // biased representation.
 }
 
-//
-//
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
