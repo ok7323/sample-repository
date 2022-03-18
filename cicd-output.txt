@@ -1,5 +1,5 @@
-[2022-03-18 17:02:43.439] INFO: Execute build command
-gcc -g  -Wall -std=c99 -c float.c
-gcc -g  -Wall -std=c99 -o program main.o float.o -lm  
-[2022-03-18 17:02:48.077] ERROR: TIME OUT BUILD COMMAND
-[2022-03-18 17:02:48.086] ERROR: BUILD ERROR
+Initialize output
+[2022-03-18 17:04:33.915] INFO: Execute build command
+make: Nothing to be done for 'all'.
+[2022-03-18 17:04:38.098] ERROR: TIME OUT BUILD COMMAND
+[2022-03-18 17:04:38.106] ERROR: BUILD ERROR
